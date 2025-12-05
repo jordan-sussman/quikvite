@@ -1,0 +1,9 @@
+{
+  "name": "quikvite",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "quikvite": "quikvite.js"
+  },
+  "license": "MIT"
+}
