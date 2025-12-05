@@ -24,7 +24,7 @@ const runTask = (task) => {
 const projectName = process.argv[2];
 
 if (!projectName) {
-  console.error("ERROR: Project name required");
+  console.error("Failed to execute: Project name required");
   process.exit(1);
 }
 
