@@ -8,13 +8,15 @@
 - Automatically installs dependencies
 - Automatically starts server
 
-## Installation (Global)
+## Global
 
+Installation:
 ```bash
 npm install -g quikvite
 ```
 
-## Usage (Global)
+Usage:
+
 
 Replace `my-app` with desired project name.
 
@@ -22,7 +24,8 @@ Replace `my-app` with desired project name.
 quikvite my-app
 ```
 
-## Local Usage:
+## Local
+Usage:
 
 Replace `my-app` with desired project name.
 
