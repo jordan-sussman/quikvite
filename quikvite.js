@@ -24,7 +24,7 @@ const runTask = (task) => {
 const projectName = process.argv[2];
 
 if (!projectName) {
-  console.error("Failed to execute: Project name required");
+  console.error("Error: Project name required");
   process.exit(1);
 }
 
@@ -33,6 +33,6 @@ try {
   console.log(`\n${projectName} is ready! Starting dev server...`);
   execSync(`cd ${projectName} && npm run dev`, { stdio: "inherit" });
 } catch (err) {
-  console.error("Failed to execute:", err);
+  console.error("Error:", err);
   process.exit(1);
 }
