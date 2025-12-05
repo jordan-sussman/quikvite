@@ -1,6 +1,6 @@
 # QuikVite
 
-**QuikVite** is a simple CLI to quickly create and run a Vite React+TypeScript project.
+**QuikVite** is a simple CLI to quickly create and run a Vite React+TypeScript project with one command.
 
 ## Features
 
