@@ -16,23 +16,21 @@ npm install -g quikvite
 ```
 
 Usage:
-
-
-Replace `my-app` with desired project name.
-
 ```bash
 quikvite my-app
 ```
+Replace `my-app` with desired project name.
+
+
 
 ## Local
 Usage:
-
-Replace `my-app` with desired project name.
 
 ```bash
 cd quikvite
 node quikvite my-app
 ```
+Replace `my-app` with desired project name.
 
 ## License
 
